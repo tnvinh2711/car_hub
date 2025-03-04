@@ -1,0 +1,25 @@
+include: package:flutter_lints/flutter.yaml
+analyzer:
+  exclude:
+    - "**/*.freezed.dart"
+    - "**/*.g.dart"
+    - "**/*.freezed.dart"
+    - "**/*.gr.dart"
+    - "**/_*.dart"
+    - "gen/**"
+    - "generated/**"
+    - "l10n/**"
+  errors:
+    non_constant_identifier_names: false
+    invalid_annotation_target: ignore
+    constant_identifier_names: ignore
+    unnecessary_string_escapes: ignore
+linter:
+  rules:
+    public_member_api_docs: false
+    prefer_single_quotes: false
+    directives_ordering: false
+    avoid_void_async: false
+
+# Additional information about this file can be found at
+# https://dart.dev/guides/language/analysis-options

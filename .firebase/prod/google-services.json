@@ -1,0 +1,330 @@
+{
+  "project_info": {
+    "project_number": "71446751589",
+    "project_id": "axlehire-warehouse",
+    "storage_bucket": "axlehire-warehouse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71446751589:android:83f5430ba9f953e0c2d98c",
+        "android_client_info": {
+          "package_name": "com.axlehire.warehouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71446751589-lp5jehj5d16dtkhl78qdj6flc17meb21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBEEraBJBUSmtsMZ1eZJ2kRzQuChvGXEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71446751589-7ps5v385f4ka6vqu5p7vuubmq8tgc2nf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "71446751589-1mrhp5fgeaf4osbk0348hljf5u0rn5iq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.axlehire.warehouse.axlehireMobileWarehouse"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71446751589:android:4c696a0a40ce64a1c2d98c",
+        "android_client_info": {
+          "package_name": "com.axlehire.warehouse.flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71446751589-lp5jehj5d16dtkhl78qdj6flc17meb21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBEEraBJBUSmtsMZ1eZJ2kRzQuChvGXEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71446751589-7ps5v385f4ka6vqu5p7vuubmq8tgc2nf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "71446751589-1mrhp5fgeaf4osbk0348hljf5u0rn5iq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.axlehire.warehouse.axlehireMobileWarehouse"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71446751589:android:448a5bc3f8ab9063c2d98c",
+        "android_client_info": {
+          "package_name": "com.axlehire.warehouse.flutter.beta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71446751589-lp5jehj5d16dtkhl78qdj6flc17meb21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBEEraBJBUSmtsMZ1eZJ2kRzQuChvGXEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71446751589-7ps5v385f4ka6vqu5p7vuubmq8tgc2nf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "71446751589-1mrhp5fgeaf4osbk0348hljf5u0rn5iq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.axlehire.warehouse.axlehireMobileWarehouse"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71446751589:android:a89d94c713129fffc2d98c",
+        "android_client_info": {
+          "package_name": "com.axlehire.warehouse.flutter.staging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71446751589-lp5jehj5d16dtkhl78qdj6flc17meb21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBEEraBJBUSmtsMZ1eZJ2kRzQuChvGXEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71446751589-7ps5v385f4ka6vqu5p7vuubmq8tgc2nf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "71446751589-1mrhp5fgeaf4osbk0348hljf5u0rn5iq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.axlehire.warehouse.axlehireMobileWarehouse"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71446751589:android:e1d9cdc1b9d89ea0c2d98c",
+        "android_client_info": {
+          "package_name": "com.axlehire.warehouse.v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71446751589-lp5jehj5d16dtkhl78qdj6flc17meb21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBEEraBJBUSmtsMZ1eZJ2kRzQuChvGXEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71446751589-7ps5v385f4ka6vqu5p7vuubmq8tgc2nf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "71446751589-1mrhp5fgeaf4osbk0348hljf5u0rn5iq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.axlehire.warehouse.axlehireMobileWarehouse"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71446751589:android:06c280af25cf6edac2d98c",
+        "android_client_info": {
+          "package_name": "com.gojitsu.warehouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71446751589-j1k5504b23a9u959pjd8u2voefbj2kbq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gojitsu.warehouse",
+            "certificate_hash": "ab00601ab9c038e57ea13104e13f7f87d33f54d0"
+          }
+        },
+        {
+          "client_id": "71446751589-lp5jehj5d16dtkhl78qdj6flc17meb21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBEEraBJBUSmtsMZ1eZJ2kRzQuChvGXEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71446751589-7ps5v385f4ka6vqu5p7vuubmq8tgc2nf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "71446751589-1mrhp5fgeaf4osbk0348hljf5u0rn5iq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.axlehire.warehouse.axlehireMobileWarehouse"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71446751589:android:181ce743c11eda34c2d98c",
+        "android_client_info": {
+          "package_name": "com.gojitsu.warehouse.beta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71446751589-2nf9jacag6le4m3aatf5lfh99rdads25.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gojitsu.warehouse.beta",
+            "certificate_hash": "ab00601ab9c038e57ea13104e13f7f87d33f54d0"
+          }
+        },
+        {
+          "client_id": "71446751589-lp5jehj5d16dtkhl78qdj6flc17meb21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBEEraBJBUSmtsMZ1eZJ2kRzQuChvGXEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71446751589-7ps5v385f4ka6vqu5p7vuubmq8tgc2nf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "71446751589-1mrhp5fgeaf4osbk0348hljf5u0rn5iq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.axlehire.warehouse.axlehireMobileWarehouse"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71446751589:android:66944c77e2fa0bc1c2d98c",
+        "android_client_info": {
+          "package_name": "com.gojitsu.warehouse.staging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71446751589-9d1dunboojbncdsj9c0aldpbl6042epr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gojitsu.warehouse.staging",
+            "certificate_hash": "14f0137a290623235c1a960f638db3e5f90f1895"
+          }
+        },
+        {
+          "client_id": "71446751589-r7f503thk0p1srdfe6a2k752p1gclfei.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gojitsu.warehouse.staging",
+            "certificate_hash": "ab00601ab9c038e57ea13104e13f7f87d33f54d0"
+          }
+        },
+        {
+          "client_id": "71446751589-lp5jehj5d16dtkhl78qdj6flc17meb21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBEEraBJBUSmtsMZ1eZJ2kRzQuChvGXEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71446751589-7ps5v385f4ka6vqu5p7vuubmq8tgc2nf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "71446751589-1mrhp5fgeaf4osbk0348hljf5u0rn5iq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.axlehire.warehouse.axlehireMobileWarehouse"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
